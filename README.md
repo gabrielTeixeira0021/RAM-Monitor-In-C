@@ -26,7 +26,7 @@ A Windows console application written in C to monitor real-time RAM usage and sy
 <a id="portuguese"></a>
 ## 🔍 Monitor de RAM - Utilitário de Memória em C
 
-Aplicativo de console Windows feito em C para monitorar uso de memória RAM em tempo real. Exibe:
+Aplicativo de console feito em C para monitorar uso de memória RAM em tempo real. Exibe:
 
 - Memória física total/disponível  
 - Percentual de uso  
