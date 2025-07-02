@@ -46,10 +46,9 @@ Aplicativo de console Windows feito em C para monitorar uso de memória RAM em t
 ## How to use / Como usar
 
 ```bash
-# Clone and build
+# Clone and open
 git clone https://github.com/yourusername/ram-monitor.git
 cd ram-monitor
-make
 
 # Run (Windows)
 ram_monitor.exe -i 2  # Update every 2 seconds
