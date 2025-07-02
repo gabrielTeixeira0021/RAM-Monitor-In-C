@@ -17,7 +17,7 @@ A Windows console application written in C to monitor real-time RAM usage and sy
 ✅ Minimal resource usage  
 ✅ Windows (Linux support coming soon)  
 ✅ Refresh interval configuration  
-✅ Color-coded output based on usage  
+✅ Color-coded output based on usage (soon)
 
 [↑ Back to top](#ram-monitor-in-c)
 
@@ -36,7 +36,7 @@ Aplicativo de console Windows feito em C para monitorar uso de memória RAM em t
 ✅ Baixo consumo de recursos  
 ✅ Suporte a Windows (futuramente Linux)  
 ✅ Configuração de intervalo de atualização  
-✅ Saída colorida conforme uso  
+✅ Saída colorida conforme uso (Em breve)
 
 [↑ Voltar ao topo](#ram-monitor-in-c)
 
